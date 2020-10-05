@@ -29,7 +29,4 @@ The next step was using loops. I practiced using "for" loops first, and then cre
 The final update to "backup.sh" was implementing the ability to backup all directories supplied to the script on a command line. There was a new function added called "backup" and a new for loop was added to accommodate this function that allows each users directory to be supplied as an argument. When I went for the final execution, nothing happened this time. I used the command "./backup.sh" and nothing happened it just went to the next line. In the end, I was not able to get my "backup.sh" script working properly and this was frustrating because I could not find a permanent working solution.
 
 Shared link to my Project 2 with Lasette Gonzales via email at 8:19 PM.
-Shared link to my Project 2 with Jakob Zavala via email at 8:20 PM.
-
-Forked Jakob Zavala's project at 8:22 PM
-Forked Lasette Gonzales project at PM.
+and shared link to my Project 2 with Jakob Zavala via email at 8:20 PM.
