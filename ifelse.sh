@@ -1,3 +1,6 @@
+#purpose is to choose bewteen num a or b based on values and test the output
+#an interesting feature would be having fi in the end of a if else statement
+
 #!/bin/bash
 #testcnage
 
