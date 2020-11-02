@@ -55,7 +55,8 @@ function backup {
     	echo "Backup of $input failed!"
     fi
 }
-    
+#the purpose of this for loop is to go through the directory stated above and to back them up
+#something interesting about this for loop is how in git bash it is structured differently then in previous languages (java & c)    
 for directory in $*; do
     backup $directory 
 done;
